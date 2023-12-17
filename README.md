@@ -24,7 +24,7 @@ python main.py
 
     The script will output the book titles and prices to the console.
 
-Project Structure
+### Project Structure
 
 The project consists of two files:
 
@@ -46,7 +46,7 @@ Here is an example of the output of the script:
 ('The Kite Runner', '£30.00')
 ('The Alchemist', '£30.00')
 
-License
+#### License
 
 This project is licensed under the MIT License.
 Authors: Karpukhin Nikita (1st year student of the international technology business group of RANEPA)
